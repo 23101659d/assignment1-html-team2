@@ -1,3 +1,5 @@
+# We are team2 Comp3122 assg1
+
 # Number Guessing Game
 
 Welcome to the Number Guessing Game! This is a simple Python-based game where the player tries to guess a randomly generated number between 1 and 100. The program provides hints (too high or too low) and tracks the number of attempts.
